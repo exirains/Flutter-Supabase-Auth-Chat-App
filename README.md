@@ -1,6 +1,7 @@
 # Flutter Supabase Auth & Chat App
 
-![App Demo](https://github.com/user-attachments/assets/40ad0079-763e-496d-8cd6-a9ca6e5d301d)  
+<div align="center">
+<img width="600" height="1000" alt="app-images" src="https://github.com/user-attachments/assets/4a524eac-fcb8-4e13-88b9-0c50f57bc5b8" />
 
 <div align="center">
   <a href="https://drive.google.com/drive/folders/1Sew60kyhkBJLkgmS-P2CcpGT-TooQQUf?usp=sharing">
