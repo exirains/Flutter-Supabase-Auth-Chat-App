@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Download_Source-ZIP-blue?logo=github&style=for-the-badge" alt="Download Source">
   </a>
 </div>
-
+<div align="left">
 A Flutter application featuring secure authentication, real time messaging, and user profile management powered by Supabase's backend.
 
 ## 🌟 Key Features
